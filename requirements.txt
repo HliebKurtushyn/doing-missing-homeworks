@@ -1,0 +1,9 @@
+psycopg2-binary
+flask
+Flask-SQLAlchemy
+alembic
+pydantic
+fastapi
+uvicorn
+requests
+numpy
